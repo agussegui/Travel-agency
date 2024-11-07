@@ -4,8 +4,6 @@ import {paginaInicio,
         paginaViajes, 
         paginaTestimoniales,
         paginaDetalleViaje
-
-        
 }
 from '../controllers/paginasController.js';
 import{
